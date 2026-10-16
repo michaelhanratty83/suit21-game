@@ -61,3 +61,14 @@ Suit21Project/
 ## Notes
 
 This project was set up as a local terminal game and updated to run on the current Java LTS runtime.
+
+## Screenshots
+
+### Start screen
+![Start screen](images/Screenshot/start-screen.png)
+
+### Gameplay
+![Gameplay](images/Screenshot/gameplay.png)
+
+### Final score
+![Final score](images/Screenshot/final-score.png)
